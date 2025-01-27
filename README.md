@@ -1,2 +1,4 @@
-# JS_PlayWright
-QA Guru JS PlayWright
+# JS_PlayWright course by QA Guru.
+
+
+
